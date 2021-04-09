@@ -5,12 +5,22 @@
 
 If you wonder how you can make an amazing CLI App and you know a little about programming. This Repo can help you.
 
-I learnt how to make my First CLI App from neog.camp by Tanay Pratap. You can find a detailed video for how to make a CLI App from [here](https://www.youtube.com/watch?v=_L-UszPmy2A&list=PLzvhQUIpvvuj5KPnyPyWsvgyzNkX_ACPA&index=2)
+I learnt how to make my First CLI App from neog.camp by Tanay Pratap. 
+You can find a detailed video for how to make a CLI App from [here](https://www.youtube.com/watch?v=_L-UszPmy2A&list=PLzvhQUIpvvuj5KPnyPyWsvgyzNkX_ACPA&index=2)
 
 ### Here is the link of my Quizes which I made during the camp
-1) Know Me Better Quiz v0 [Live Demo]()
+1) Know Me Better Quiz v0 [Live Demo](https://replit.com/@smilegupta/How-well-you-know-me?embed=1&output=1)
 2) Big Bang Theory FANDOM Quiz [Live Demo]()
 3) Know Me Better Quiz v1 [Live Demo]()
+
+### Steps to Follow
+
+1) Open https://replit.com/
+2) Create your Account / Signin in your account
+3) Create a new repl of JavaScript/NodeJs
+4) Write your Code
+5) Copy the link of your repl and add ```?embed=1&output=1``` to deploy and show to the entire world
+6) Show your quiz to your friends and have fun
 
 
 
