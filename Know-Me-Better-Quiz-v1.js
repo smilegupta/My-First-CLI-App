@@ -26,6 +26,21 @@ const questions =[
   },
 ];
 
+// Highscore Array
+const highScores=
+[
+  {
+    position: 1,
+    name:"Srushith Repakula",
+    score:4
+  },
+  {
+    position:2,
+    name:"Shaina Pravanda",
+    score:3
+  }
+]
+
 // Automating Questions and Answer Process
 function play(question,answer)
 {
@@ -64,6 +79,23 @@ if(response.toLowerCase() === "yes")
     play(que.question, que.answer);
   } 
   console.log(chalk.bold.blueBright("Your Final Score is: ", score + " / " + questions.length ))
+
+  console.log(chalk.bold.red('\nLeaderBoard\n'))
+
+  for(let i=0;i<highScores.length;i++)
+  {
+    console.log(chalk.yellow.bold(highScores[i].position+") "+ highScores[i].name + " -> " + highScores[i].score));
+  }
+
+  for(let i = 0; i<highScores.length; i++)
+  {
+  if(highScores[i].score<score)
+    {
+    console.log('\nCongrats! You have beaten '+ highScores[i].name);
+    console.log('Please send your winning screenshot!')
+    }
+  }
+
 }
 else{
   console.log(chalk.bold.greenBright("\nOk! Bie have a great Day!"))
