@@ -10,7 +10,7 @@ You can find a detailed video for how to make a CLI App from [here](https://www.
 
 ### Here is the link of my Quizes which I made during the camp
 1) Know Me Better Quiz v0  -> [Live Demo](https://replit.com/@smilegupta/How-well-you-know-me?embed=1&output=1)
-2) Big Bang Theory FANDOM Quiz ->  [Live Demo]()
+2) Big Bang Theory FANDOM Quiz ->  [Live Demo](https://replit.com/@smilegupta/Big-Bang-Theory-Fandom-Quiz?embed=1&output=1)
 3) Know Me Better Quiz v1 -> [Live Demo](https://replit.com/@smilegupta/Know-Me-Quiz-V1?embed=1&output=1)
 
 ### Steps to Follow
